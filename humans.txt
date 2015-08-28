@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Joanna Starosta - support & love for the developer
 
 # TECHNOLOGY COLOPHON
 
